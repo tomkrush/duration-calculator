@@ -1,0 +1,19 @@
+body {
+	background-color: #eee;
+	font-family: "Helvetica-Neue", Helvetica, Arial;
+}
+
+h1 {
+	font-size: 18px;
+	line-height: 1;
+	font-weight: normal;
+}
+
+textarea {
+	border: 1px solid #ccc;
+	border-radius: 1px;
+	width: 200px;
+	height: 300px;
+	display: block;
+	margin-bottom: 10px;
+}
